@@ -1,0 +1,24 @@
+---
+title: "More About Me"
+---
+
+In my free time, I still play tennis for fun whenever I am able to! I also love to spend time with my family, my pets, and my friends. Being a Cleveland Native, one of my favorite things to do is go support Cleveland sports, specifically the Guardians games with my dad - we have had season tickets since I was 10!
+
+::: {layout-ncol=2}
+
+![](IMG_8935.jpg)
+Me playing tennis
+
+![](Dana_Senior_Day-6.jpeg)
+My family at my senior day
+
+![](IMG_0746.jpeg)
+My cat, Willow
+
+![](IMG_7462.jpeg)
+My cat, Lingling
+
+
+![](IMG_3454.jpeg)
+My Dog, Aurora
+:::
