@@ -1,0 +1,32 @@
+---
+about:
+  template: trestles
+  id: about-block
+  image: "Dana_photo.JPG"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/dana-kleinman
+    - icon: envelope
+      text: Email
+      href: "mailto:danamkleinman@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hi, I’m Dana Kleinman, a Master’s student in Biotechnology on the neuroscience track at Case Western Reserve University in Cleveland, Ohio. I currently work as a laboratory intern and will begin my role as Scientist I at Amptiv Biosciences starting in December 2025. At Amptiv Bio, we focus on developing a novel class of post-synthetic chemical modifications that can be applied to any fully synthesized mRNA construct, regardless of sequence or size.
+
+At Case Western Reserve University, I am the first student in the M.S. Biotechnology program. Through my coursework and research training, I have built a strong foundation in biotechnology, molecular biology, and current advances in the field—particularly those related to neuroscience and RNA therapeutics.
+
+I completed my undergraduate education at Dickinson College (2020–2024), earning a B.S. in both Neuroscience and Biochemistry & Molecular Biology, and I graduated Magna Cum Laude. I was also a member of the Women’s Tennis Team, starting all three competitive years (my freshman season was canceled due to COVID-19) and serving as team captain during my junior and senior seasons. Throughout my time at Dickinson, I received multiple academic and athletic awards.
+
+On this website, you will find my CV, a link to my LinkedIn profile, and my email if you would like to get in touch.
+
+## Curriculum Vitae {#cv}
+
+You can download my CV here:
+
+[Download my CV](Kleinman_resume.docx){.btn .btn-primary}
