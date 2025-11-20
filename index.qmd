@@ -9,7 +9,7 @@ about:
       href: http://www.linkedin.com/in/dana-kleinman
     - icon: envelope
       text: Email
-      href: "danamkleinman@gmail.com"  
+      href: "mailto:danamkleinman@gmail.com"  
 ---
 
 ::: {#about-block}
